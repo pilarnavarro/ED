@@ -1,0 +1,25 @@
+var classFecha__Historica =
+[
+    [ "const_iterator", "classFecha__Historica.html#a9925a904c813cc94b5dd5c126ab543b4", null ],
+    [ "iterator", "classFecha__Historica.html#a773ef5d9bd107bd14a09d9f15484caa9", null ],
+    [ "Fecha_Historica", "classFecha__Historica.html#a17514fb90833c1446a0e8e824833bc40", null ],
+    [ "Fecha_Historica", "classFecha__Historica.html#a4f0007b89c89b2fbb3b1a0df936f8f20", null ],
+    [ "Fecha_Historica", "classFecha__Historica.html#a22a72d1bcd6d7e28ca5d33811edc9010", null ],
+    [ "~Fecha_Historica", "classFecha__Historica.html#a71b1bcf8df8300beaef6143ea10d5aff", null ],
+    [ "add_event", "classFecha__Historica.html#a3031dd320de1e46f1275316a55326d54", null ],
+    [ "begin", "classFecha__Historica.html#ae48f7609bb29694e412b11f2e3fb56fd", null ],
+    [ "begin", "classFecha__Historica.html#ad91b98bdcaf03b2607046521dbbf1f04", null ],
+    [ "end", "classFecha__Historica.html#a70a758cfddb1d7c1926f8e6a28b36f84", null ],
+    [ "end", "classFecha__Historica.html#acb9395a688945c97f10d60a0548e71e4", null ],
+    [ "get_size", "classFecha__Historica.html#a7a7949e0dc3a38a86ab979d8d6f501f3", null ],
+    [ "get_year", "classFecha__Historica.html#aa3a5a50c34f9a1b271d0c7e8a3dc69b3", null ],
+    [ "operator=", "classFecha__Historica.html#a16fb4aeab560bc4e35a91236c877193e", null ],
+    [ "operator[]", "classFecha__Historica.html#acc3ac78ddfd363beace87505ad806452", null ],
+    [ "operator[]", "classFecha__Historica.html#ae7fb56b5686a8223e2ea719b0b60c9b4", null ],
+    [ "search_event", "classFecha__Historica.html#adf49196a23931242302d93f58ffe7b67", null ],
+    [ "set_year", "classFecha__Historica.html#a2edacea83bb87ae273224d0783e7b85d", null ],
+    [ "Union", "classFecha__Historica.html#acc6bc835533c215e6699410593865a2b", null ],
+    [ "operator<<", "classFecha__Historica.html#a7d8feb850ce61911b1860250055c5573", null ],
+    [ "operator>>", "classFecha__Historica.html#a33544bb59ebbf85043c0ce14eb3f16fa", null ],
+    [ "events", "classFecha__Historica.html#a63f6626b1db560bad05e050472033372", null ]
+];
